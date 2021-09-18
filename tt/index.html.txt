@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cara Embed Video YouTube di Website</title>
+    <style>
+        .container {
+            width: 560px;
+            margin: auto;
+            background: #999999;
+        }
+        footer {
+            padding: 5px 10px;
+            background-color: #1CBABC;
+            color: #F4F5ED;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content-video">
+            <!-- Tempatkan Video Disini -->
+            
+        </div>
+        <footer>
+            <h3>Cara Embed Video YouTube di Website</h3>
+        </footer>
+    </div>
+</body>
+</html>
